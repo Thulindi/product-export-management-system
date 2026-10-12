@@ -1,8 +1,8 @@
-**Source files:** Download and extract [the project archive](product-export-management-system.zip). The folder paths below refer to the extracted archive.
-
 # Product Export Management System
 
 Team project for managing Ceylon spice product catalogs, customer orders, shipments, payments, and export documents. The mobile client uses React Native and Expo; the API uses Express and MongoDB.
+
+The bank transfer screen contains deployment placeholders for the account number and SWIFT code. Configure real payment details privately before using that flow.
 
 ## Repository layout
 
@@ -21,3 +21,4 @@ The Android project can be generated locally with Expo when needed. Uploaded cus
 ## Team work
 
 The original project divided product and inventory, orders and analytics, logistics, client management, payments, and document storage among team members.
+
