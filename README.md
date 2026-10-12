@@ -1,3 +1,5 @@
+**Source files:** Download and extract [the project archive](product-export-management-system.zip). The folder paths below refer to the extracted archive.
+
 # Product Export Management System
 
 Team project for managing Ceylon spice product catalogs, customer orders, shipments, payments, and export documents. The mobile client uses React Native and Expo; the API uses Express and MongoDB.
